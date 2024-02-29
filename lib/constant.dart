@@ -1,0 +1,15 @@
+String Country='cairo';
+var TempC;
+var TempK;
+var TempFellsLike;
+var TempFellsLikeAfterConvert;
+var TempMinModified;
+var TempMaxModified;
+var hemiudity;
+var pressure;
+int? visibility;
+var visibilitydiv;
+int ? TempMin;
+int ? TempMax;
+var airQuility;
+var airQuilityC;
